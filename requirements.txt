@@ -1,0 +1,16 @@
+# Requirements for Data Engineer, Analyst & Scientist Project
+
+# No external dependencies required - uses only Python standard library
+# The project uses built-in functions:
+# - open(), file I/O operations
+# - sum(), len(), max(), min() - built-in statistics
+# - Basic arithmetic for predictions
+
+# Python Version: 3.6+
+
+# Files included:
+# 1. data_engineer.py - Data storage
+# 2. data_analyst.py - Data analysis
+# 3. data_scientist.py - Predictive forecasting
+# 4. main.py - Complete workflow
+# 5. advanced_main.py - OOP implementation
